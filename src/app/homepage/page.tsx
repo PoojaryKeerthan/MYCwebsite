@@ -83,7 +83,7 @@ export default function Homepage() {
   },
   {
     id: 4,
-    title: "Kesard Onji Gammath",
+    title: "Aatidonji Kesard Gammath",
     description: "A vibrant celebration of Mangalorean culture featuring traditional games in paddy fields. We bring the community together to honor our farming traditions while fostering spirit and camaraderie.",
     icon: "MusicalNoteIcon",
     image:IMAGES.KesardGammath,

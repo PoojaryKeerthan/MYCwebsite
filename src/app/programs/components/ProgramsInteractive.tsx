@@ -150,7 +150,7 @@ const ProgramsInteractive = () => {
     },
     {
       id: 3,
-      title: 'Kesard Onji Gammath (2023)',
+      title: 'Aatidonji Kesard Gammath (2023)',
       category: 'Social Events',
       description: 'Kesard onji gammath is a vibrant "Day in the Slush" festival celebrated by the Mardoli Youth Club to honor the agricultural roots of Tulunadu.',
       duration: '1 day',

@@ -143,7 +143,7 @@ const MembersInteractive = () => {
   {
     id: 5,
     name: 'Anil Kottari',
-    role: 'Active Member',
+    role: 'Event Organizer',
     image: IMAGES.Anil || "https://img.rocket.new/generatedImages/rocket_gen_img_19d721817-1763295614722.png",
     alt: 'Young African woman in white shirt with natural hair smiling brightly in professional setting',
     joinDate: '23 July 2023',
@@ -233,6 +233,52 @@ const MembersInteractive = () => {
   },
   {
     id: 9,
+    name: 'Achal Bangera',
+    role: 'Multimedia Designer and Content Creator',
+    image: IMAGES.Achal ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
+    alt: 'Member of Mardoli Youth Club',
+    joinDate: '23 July 2023',
+    volunteerHours: 287,
+    eventsAttended: 41,
+    achievements: ['Leadership Pro', 'Community Champion', 'Mentor Star', '250 Hours Club'],
+    bio: 'Experienced leader driving positive change through strategic community initiatives.',
+    skills: ['Leadership', 'Strategy', 'Public Speaking', 'Project Management'],
+    mentorshipStatus: 'mentor',
+    email: 'keerthan.s@mardoliyouth.org',
+    phone: '+91 000 000 0000',
+    location: 'Mardoli',
+    interests: ['Leadership', 'Strategy', 'Education', 'Community Development'],
+    recentActivities: [
+      { type: 'event', title: 'MPL Leadership Summit', date: '20 Jan 2023' },
+      { type: 'event', title: 'VPL Leadership Summit', date: '10 Dec 2023' },
+      { type: 'event', title: 'Kesard gammath', date: '23 sep 2023' }
+    ]
+  },
+  {
+    id: 10,
+    name: 'Keerthan P Poojary',
+    role: 'Multimedia Designer and Content Creator',
+    image: IMAGES.Kee || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
+    alt: 'Member of Mardoli Youth Club',
+    joinDate: '23 July 2023',
+    volunteerHours: 287,
+    eventsAttended: 41,
+    achievements: ['Leadership Pro', 'Community Champion', 'Mentor Star', '250 Hours Club'],
+    bio: 'Experienced leader driving positive change through strategic community initiatives.',
+    skills: ['Leadership', 'Strategy', 'Public Speaking', 'Project Management'],
+    mentorshipStatus: 'mentor',
+    email: 'keerthan.s@mardoliyouth.org',
+    phone: '+91 000 000 0000',
+    location: 'Mardoli',
+    interests: ['Leadership', 'Strategy', 'Education', 'Community Development'],
+    recentActivities: [
+      { type: 'event', title: 'MPL Leadership Summit', date: '20 Jan 2023' },
+      { type: 'event', title: 'VPL Leadership Summit', date: '10 Dec 2023' },
+      { type: 'event', title: 'Kesard gammath', date: '23 sep 2023' }
+    ]
+  },
+  {
+    id:11,
     name: 'Dinesh Poojary',
     role: 'Active member',
     image: IMAGES.Dinesh ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1703231c0-1765278179841.png",
@@ -255,7 +301,7 @@ const MembersInteractive = () => {
 
   },
   {
-    id: 10,
+    id: 12,
     name: 'Goutham salian',
     role: 'Active Member',
     image:IMAGES.Gauthu || "https://img.rocket.new/generatedImages/rocket_gen_img_12ab9ea78-1763296173898.png",
@@ -278,7 +324,7 @@ const MembersInteractive = () => {
 
   },
   {
-    id: 11,
+    id: 13,
     name: 'Shushsnk Poojary',
     role: 'Active member',
     image: IMAGES.ShushankPoojary || "https://img.rocket.new/generatedImages/rocket_gen_img_119988cec-1763298918753.png",
@@ -301,7 +347,7 @@ const MembersInteractive = () => {
 
   },
   {
-    id: 12,
+    id: 14,
     name: 'Deepak Kalyar',
     role: 'Active Member',
     image:IMAGES.Deepak ||  "https://img.rocket.new/generatedImages/rocket_gen_img_180d36757-1763296172839.png",
@@ -324,7 +370,7 @@ const MembersInteractive = () => {
 
   },
   {
-    id: 13,
+    id: 15,
     name: 'Harikrishna kottary',
     role: 'Active Member',
     image: IMAGES.Hari ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -346,7 +392,7 @@ const MembersInteractive = () => {
     { type: 'event', title: 'Kesard gammath', date: '23 sep 2023' }]
   },
   {
-    id: 14,
+    id: 16,
     name: 'Harish Poojary',
     role: 'Active Member',
     image: IMAGES.Harish || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -369,7 +415,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 15,
+    id: 17,
     name: 'Jaya Kulal',
     role: 'Active Member',
     image: IMAGES.Jaya || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -392,7 +438,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 16,
+    id: 18,
     name: 'Mohan Kulal',
     role: 'Active Member',
     image: IMAGES.Mohankulal || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -415,7 +461,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 17,
+    id: 19,
     name: 'Jithesh Poojary',
     role: 'Active Member',
     image: IMAGES.Jiteshp ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -438,7 +484,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 18,
+    id: 20,
     name: 'Jithesh Kulal',
     role: 'Active Member',
     image: IMAGES.Jitesh || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -461,7 +507,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 19,
+    id: 21,
     name: 'Mohan K',
     role: 'Active Member',
     image: IMAGES.MohanK ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -484,7 +530,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 20,
+    id: 22,
     name: 'Prathap Kukyan',
     role: 'Active Member',
     image: IMAGES.Prathap || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -507,7 +553,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 21,
+    id: 23,
     name: 'Pramith Kukyan',
     role: 'Active Member',
     image: IMAGES.Pramith || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -530,7 +576,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 22,
+    id: 24,
     name: 'Santhosh Poojary',
     role: 'Active Member',
     image: IMAGES.Santhu|| "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -553,7 +599,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 23,
+    id: 25,
     name: 'Shiva Prasad Kulal',
     role: 'Active Member',
     image: IMAGES.Shivu || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -576,7 +622,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 24,
+    id: 26,
     name: 'Sudhir Poojary',
     role: 'Active Member',
     image: IMAGES.Sudheer || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -599,7 +645,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 25,
+    id: 27,
     name: 'Yathin Poojary',
     role: 'Active Member',
     image: IMAGES.Yahtin || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -622,7 +668,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 26,
+    id: 28,
     name: 'Ashok M',
     role: 'Active Member',
     image: IMAGES.Ashok || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -645,7 +691,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 27,
+    id: 29,
     name: 'Bhooshan',
     role: 'Active Member',
     image:IMAGES.Bhoosu || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -668,7 +714,7 @@ const MembersInteractive = () => {
     ]
   },
   {
-    id: 28,
+    id: 30,
     name: 'Karthik Kulal',
     role: 'Active Member',
     image: IMAGES.Karthik || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
@@ -681,52 +727,6 @@ const MembersInteractive = () => {
     skills: ['Leadership', 'Strategy', 'Public Speaking', 'Project Management'],
     mentorshipStatus: 'mentor',
     email: 'karthik.k@mardoliyouth.org',
-    phone: '+91 000 000 0000',
-    location: 'Mardoli',
-    interests: ['Leadership', 'Strategy', 'Education', 'Community Development'],
-    recentActivities: [
-      { type: 'event', title: 'MPL Leadership Summit', date: '20 Jan 2023' },
-      { type: 'event', title: 'VPL Leadership Summit', date: '10 Dec 2023' },
-      { type: 'event', title: 'Kesard gammath', date: '23 sep 2023' }
-    ]
-  },
-  {
-    id: 29,
-    name: 'Keerthan Salian',
-    role: 'Active Member',
-    image: IMAGES.NO || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
-    alt: 'Member of Mardoli Youth Club',
-    joinDate: '23 July 2023',
-    volunteerHours: 287,
-    eventsAttended: 41,
-    achievements: ['Leadership Pro', 'Community Champion', 'Mentor Star', '250 Hours Club'],
-    bio: 'Experienced leader driving positive change through strategic community initiatives.',
-    skills: ['Leadership', 'Strategy', 'Public Speaking', 'Project Management'],
-    mentorshipStatus: 'mentor',
-    email: 'keerthan.s@mardoliyouth.org',
-    phone: '+91 000 000 0000',
-    location: 'Mardoli',
-    interests: ['Leadership', 'Strategy', 'Education', 'Community Development'],
-    recentActivities: [
-      { type: 'event', title: 'MPL Leadership Summit', date: '20 Jan 2023' },
-      { type: 'event', title: 'VPL Leadership Summit', date: '10 Dec 2023' },
-      { type: 'event', title: 'Kesard gammath', date: '23 sep 2023' }
-    ]
-  },
-  {
-    id: 30,
-    name: 'Achal Bangera',
-    role: 'Active Member',
-    image: IMAGES.Achal ||  "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
-    alt: 'Member of Mardoli Youth Club',
-    joinDate: '23 July 2023',
-    volunteerHours: 287,
-    eventsAttended: 41,
-    achievements: ['Leadership Pro', 'Community Champion', 'Mentor Star', '250 Hours Club'],
-    bio: 'Experienced leader driving positive change through strategic community initiatives.',
-    skills: ['Leadership', 'Strategy', 'Public Speaking', 'Project Management'],
-    mentorshipStatus: 'mentor',
-    email: 'keerthan.s@mardoliyouth.org',
     phone: '+91 000 000 0000',
     location: 'Mardoli',
     interests: ['Leadership', 'Strategy', 'Education', 'Community Development'],
@@ -832,7 +832,7 @@ const MembersInteractive = () => {
     id: 35,
     name: 'Sunil Kulal',
     role: 'Active Member',
-    image:IMAGES.NO || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
+    image:IMAGES.Sunilk || "https://img.rocket.new/generatedImages/rocket_gen_img_1a5b689fb-1763296744210.png",
     alt: 'Member of Mardoli Youth Club',
     joinDate: '23 July 2023',
     volunteerHours: 287,

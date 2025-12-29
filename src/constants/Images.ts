@@ -60,6 +60,7 @@ export const IMAGES = {
   Jitesh:"/MembersImages/Jitesh.png",
   MohanK:"/MembersImages/Mohank.png",
   Pramith:"/MembersImages/Pramith.png",
+  Kee:"/MembersImages/Kee.png",
   Shivu:"/MembersImages/Shivu.png",
   Yahtin:"/MembersImages/Yathin.png",
   Kishore:"/MembersImages/Kishore.png",
@@ -76,4 +77,5 @@ export const IMAGES = {
   Pradeep:"/MembersImages/Pradeep.jpg",
   Jaya:"/MembersImages/Jaya.jpg",
   Harishk:"/MembersImages/Harishk.jpg",
+  Sunilk:"/MembersImages/Sunilk.jpg",
 } as const;
