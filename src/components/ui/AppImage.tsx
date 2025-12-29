@@ -94,6 +94,7 @@ function AppImage({
                 sizes={fill ? (sizes || '100vw') : sizes}
                 className={commonClassName}
                 onError={handleError}
+
                 onLoadingComplete={() => setIsLoading(false)}
                 onClick={onClick}
                 style={fill ? { objectFit: 'cover' } : {}}

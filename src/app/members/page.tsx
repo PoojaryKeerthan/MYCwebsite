@@ -3,7 +3,7 @@ import Header from '../../components/common/Header';
 import MembersInteractive from './components/MembersInteractive';
 
 export const metadata: Metadata = {
-  title: 'Members - Mardoli Youth Hub',
+  title: 'Members - Mardoli Youths club',
   description: 'Connect with fellow members of Mardoli Youth Hub, discover mentorship opportunities, track achievements, and build meaningful relationships within our vibrant community of young leaders.',
 };
 

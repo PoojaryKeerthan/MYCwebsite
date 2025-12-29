@@ -3,7 +3,7 @@ import Header from '../../components/common/Header';
 import HomepageInteractive from './components/HomepageInteractive';
 import { IMAGES } from '@/constants/Images';
 export const metadata: Metadata = {
-  title: 'Home - Mardoli Youth Hub',
+  title: 'Home - Mardoli Youths Club',
   description: 'Empowering young minds through community engagement and leadership development. Join a vibrant community of youth leaders making real impact in Mardoli District, Ghana.'
 };
 

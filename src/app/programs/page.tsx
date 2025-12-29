@@ -3,7 +3,7 @@ import Header from '../../components/common/Header';
 import ProgramsInteractive from './components/ProgramsInteractive';
 
 export const metadata: Metadata = {
-  title: 'Programs & Activities - Mardoli Youth Hub',
+  title: 'Programs & Activities - Mardoli Youths Club',
   description: 'Explore diverse youth development programs including leadership training, community service, educational workshops, sports & fitness, and arts & culture initiatives designed to empower young minds.',
 };
 
