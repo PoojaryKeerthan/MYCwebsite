@@ -132,7 +132,7 @@ const HeroSection = ({
             </div>
 
             {/* Scroll Indicator */}
-            <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20 animate-bounce">
+            <div className="absolute bottom-8 left-48 transform -translate-x-1/2 z-20 animate-bounce">
                 <Icon name="ChevronDownIcon" size={32} className="text-white" />
             </div>
 
