@@ -78,4 +78,5 @@ export const IMAGES = {
   Jaya:"/MembersImages/Jaya.jpg",
   Harishk:"/MembersImages/Harishk.jpg",
   Sunilk:"/MembersImages/Sunilk.jpg",
+  Sabbal : "/MembersImages/Sabbal.jpg",
 } as const;
